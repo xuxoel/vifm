@@ -110,6 +110,7 @@ mark h ~/
 mark m ~/Music/
 mark l ~/.local/
 mark p ~/Pictures/
+mark s ~/Sync/
 mark u /mnt/usb/
 mark v ~/Movies/
 
